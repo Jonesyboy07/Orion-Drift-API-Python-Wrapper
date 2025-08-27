@@ -21,7 +21,7 @@ This repository provides a Python wrapper for the Orion Drift API. It is intende
 - This project is **not** affiliated with or endorsed by Orion Drift.
 - Documentation for the API will **not** be published by the author.
 - The wrapper is provided as-is, with no guarantees or support.
-- If Another Axiom wishes for this repository to be removed, they can reach out and I will comply.
+- If Another Axiom wishes for this repository to be removed, they can reach out and I will comply within 1-3 business days.
 
 ## License & Usage
 
